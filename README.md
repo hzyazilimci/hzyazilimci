@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Alihaydar.</h1>
-<p><strong>I'm a backend developer</strong></p>
+<p align="center"><strong>I'm a backend developer</strong></p>
 
 <div align="center">
     <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/github1.gif?raw=true" width = "80">
