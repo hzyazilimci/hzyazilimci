@@ -11,16 +11,16 @@
     <hr></hr>
 </div>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/alihaydarsalman/"><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/linkedin.png?raw=true" width="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:salmanalihaydarr@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"  width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alihaydarsalman/"><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/linkedin.png?raw=true" width="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:salmanalihaydarr@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"  width="72"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/akademikcahiller/">
-   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/instagram.png?raw=true"  width="75" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/instagram.png?raw=true"  width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/show/7I4FEsoUKMyEbqrsgsUbQl?si=f3654fc1ced54265">
-   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/spotify.png?raw=true"  width="75" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/spotify.png?raw=true"  width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <hr></hr>
-    <p align='center'><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/coding.gif?raw=true"  width="300"><img/></p>
+    <p align='center'><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/coding.gif?raw=true"  width="240"><img/></p>
     <p align='center'><strong>I work on Java technologies.</strong></p>
-    <p align='center'><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/akademikcahiller.png?raw=true"  width="150"><img/></p>
+    <p align='center'><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/akademikcahiller.png?raw=true"  width="120"><img/></p>
     <p align='center'><strong>I am co-founder of "akademikcahiller".</strong></p>
     <p align='center'> 
         Besides software; I have interests in mathematic, physics and space. I write articles about these topics on my instagram account and I make podcasts about the topics I am interested in.
