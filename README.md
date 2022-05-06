@@ -11,12 +11,12 @@
     <hr></hr>
 </div>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/alihaydarsalman/"><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/linkedin.png?raw=true" width="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:salmanalihaydarr@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"  width="72"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alihaydarsalman/"><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/linkedin.png?raw=true" width="51,2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:salmanalihaydarr@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"  width="57,6"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/akademikcahiller/">
-   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/instagram.png?raw=true"  width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/instagram.png?raw=true"  width="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/show/7I4FEsoUKMyEbqrsgsUbQl?si=f3654fc1ced54265">
-   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/spotify.png?raw=true"  width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/spotify.png?raw=true"  width="48" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <hr></hr>
     <p align='center'><img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/coding.gif?raw=true"  width="240"><img/></p>
     <p align='center'><strong>I work on Java technologies.</strong></p>
