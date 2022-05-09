@@ -5,7 +5,7 @@
     <img src="https://github.com/hzyazilimci/hzyazilimci/blob/main/attachment/github1.gif?raw=true" width = "80">
      <br></br>
      <p><strong>WELCOME TO MY PROFILE</strong></p>
-    <p><img src="https://komarev.com/ghpvc/?username=hzyazilimci&label=Profile%20views&color=0e75b6&style=flat" alt="hzyazilimci" /> </p>
+    <p><img src="https://komarev.com/ghpvc/?username=hzyazilimci&label=Profile%20views&color=0e75b6&style=flat" alt="hzyazilimci" countColor=#154c79/> </p>
     <br></br>
      <p><strong>You can reach me using the buttons below.</strong> </p>
     <hr></hr>
