@@ -27,3 +27,7 @@
    <br>If you want to see them, you can click on the instagram and spotify icons above.</br>
     </p>
 </p>
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/hzyazilimci/hzyazilimci/blob/output/github-contribution-grid-snake.gif)
