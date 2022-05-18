@@ -26,7 +26,8 @@
         Besides computer science; I have interests in mathematic, physics and space. I write articles about these topics on my instagram account and I make podcasts about the topics I am interested in.
    <br>If you want to see them, you can click on the instagram and spotify icons above.</br>
     </p>
+      ![Snake animation](https://github.com/hzyazilimci/hzyazilimci/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
-  ![Snake animation](https://github.com/hzyazilimci/hzyazilimci/blob/output/github-contribution-grid-snake.svg)
+
